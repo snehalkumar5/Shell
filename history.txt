@@ -1,0 +1,20 @@
+bg
+sleep 10 &
+sleep 1- &
+sleep 10&
+jobs
+bg 1
+jobs
+sleep 10 &
+bgsleep 10 &
+sleep 5 &
+echo "$HOME"
+echo $HOME
+echo hasd
+echo $HOME
+echo $var
+setenv var "hello
+echo "$var"
+echo var
+echo $var
+setenv var heelo
